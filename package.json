@@ -1,0 +1,10 @@
+{
+  "name": "useFirebase",
+  "version": "1.0.0",
+  "description": "Dead simple Firebase react hook",
+  "main": "src/useFirebase.js",
+  "repository": "https://github.com/davidnagli/useFirebase.git",
+  "author": "David Nagli <davidnagli@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
